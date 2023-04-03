@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a54528f81a3f609449b8d2c41a508748, type: 3}
+  m_Name: TestItem
+  m_EditorClassIdentifier: 
+  visual: {fileID: 5028199364649540165, guid: a8feb0577a5ec874182da502130bdca3, type: 3}
+  characterElement: {fileID: 7523435475668241919, guid: 760aee62c8753da4ebf95173aea9cc8f, type: 3}
+  droppedItem: {fileID: 8898111900337923638, guid: 98616afc64b0ba34d8fafb16d4f15872, type: 3}
+  sprite: {fileID: -1680616668, guid: fc88dd40ab45a6842be0848a41969e5e, type: 3}
+  maxStackSize: 0

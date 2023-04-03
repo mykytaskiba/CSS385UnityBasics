@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef5c5f5e64c0f224787dcca0f776b7f5, type: 3}
+  m_Name: InventoryGenericMedium
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: a1b443bf104541d4c8a6ee4f702317a0, type: 3}
+  - {fileID: 8300000, guid: a94e6ef23e0a08445a3792528f8d0952, type: 3}
+  - {fileID: 8300000, guid: 16d8dab7cbfd0c64a85c980df0f0a5da, type: 3}
+  - {fileID: 8300000, guid: 2b6e9405fbb15044ab72c09bb41fe0fa, type: 3}
+  - {fileID: 8300000, guid: 30b66b5d8124d7e4a8198f33adb2dc48, type: 3}
+  - {fileID: 8300000, guid: ffbd853b13d01874697e80652cd20b3f, type: 3}
+  - {fileID: 8300000, guid: d3d39f69a7a6f9449b5ee35ba6aa553e, type: 3}
+  - {fileID: 8300000, guid: 913cf654d037d0a4c92d63c9e0938239, type: 3}
+  - {fileID: 8300000, guid: b4c6a16155a18864cadc2bc2abcaeeda, type: 3}
+  - {fileID: 8300000, guid: 16100f49a897cb841b46fe548f1ba29e, type: 3}
+  volume: 1
+  pitch: 1
+  pitchVariance: 0

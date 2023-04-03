@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef5c5f5e64c0f224787dcca0f776b7f5, type: 3}
+  m_Name: WoodFootstep
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: bce739208e023dd4f93ddc1844a5d14e, type: 3}
+  - {fileID: 8300000, guid: 47a4cf4a725347645b104cbcf7ab1085, type: 3}
+  - {fileID: 8300000, guid: 2d9a805c13f669240a646a29aea597b5, type: 3}
+  - {fileID: 8300000, guid: 86f12338a0d51ac42a7ff4ad4976c902, type: 3}
+  - {fileID: 8300000, guid: f3462b59a0b2c82408ea069df83774fc, type: 3}
+  - {fileID: 8300000, guid: a0d20277d4aa7f0498e6708fd3303374, type: 3}
+  - {fileID: 8300000, guid: f54ff83cd5b50e1499f5fe4248dc59e4, type: 3}
+  - {fileID: 8300000, guid: 273927b05a1ad0e4888ad44b0a556d2d, type: 3}
+  - {fileID: 8300000, guid: 46a55d6b7ffd98847a7c983072644a77, type: 3}
+  - {fileID: 8300000, guid: 04cfda1794a4bf241982525733db9556, type: 3}
+  - {fileID: 8300000, guid: ef9902484ef9d7946af9ee437fb16db2, type: 3}
+  - {fileID: 8300000, guid: 921424609c70eeb42a1f2139b46bb38c, type: 3}
+  - {fileID: 8300000, guid: 27a557b1a09fb4d4a938c9d44299f67b, type: 3}
+  - {fileID: 8300000, guid: 7b2c57d41ba7a0345a8ffa11fa9e731f, type: 3}
+  - {fileID: 8300000, guid: bbdfedd3a68932140b4499986c85303c, type: 3}
+  - {fileID: 8300000, guid: cabf12261f07aaf4596c146cc61299a2, type: 3}
+  - {fileID: 8300000, guid: 4fc60cb4e610a3a449469a27637dbef6, type: 3}
+  - {fileID: 8300000, guid: 4c103a65a212e0349a3ece269a1273d1, type: 3}
+  - {fileID: 8300000, guid: fcd4e3b7db04e304f8095efd22e27989, type: 3}
+  - {fileID: 8300000, guid: b6132294203a7574b835b195b1cd32fb, type: 3}
+  volume: 1
+  pitch: 1
+  pitchVariance: 0

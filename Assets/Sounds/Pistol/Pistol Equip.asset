@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef5c5f5e64c0f224787dcca0f776b7f5, type: 3}
+  m_Name: Pistol Equip
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 475564be09f121c4386232b83495831b, type: 3}
+  - {fileID: 8300000, guid: 77d89849e019e7f4a9856a0dbd6384a7, type: 3}
+  - {fileID: 8300000, guid: 5ca832f37f5512545b59b682a12566a7, type: 3}
+  - {fileID: 8300000, guid: 82b7e7a1ccf6e2e4ca565c3da7bd1b6a, type: 3}
+  - {fileID: 8300000, guid: 9ace646a6fabb2c449e202ee3857826c, type: 3}
+  - {fileID: 8300000, guid: f80169cf169804c4483d1c5f15855e75, type: 3}
+  - {fileID: 8300000, guid: cf10e15a4cb71a4439325dbf2e8faac5, type: 3}
+  - {fileID: 8300000, guid: 5ccbc0c90b5f61b47bb621e0f898bd89, type: 3}
+  - {fileID: 8300000, guid: 7bbafaedd02d92e4dbef0b7d33c30455, type: 3}
+  - {fileID: 8300000, guid: 8fa9a8bcd9d78ec49b8161faaf73009c, type: 3}
+  volume: 1
+  pitch: 1
+  pitchVariance: 0

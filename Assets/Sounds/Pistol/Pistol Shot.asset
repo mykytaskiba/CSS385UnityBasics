@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef5c5f5e64c0f224787dcca0f776b7f5, type: 3}
+  m_Name: Pistol Shot
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: bcbb322a5db11904b82e66f308f2b86f, type: 3}
+  - {fileID: 8300000, guid: 3b048642ddc1a444da4489a09539163c, type: 3}
+  - {fileID: 8300000, guid: 4efda23c11630db45853a046556f795a, type: 3}
+  - {fileID: 8300000, guid: d2a7f6ffe1383d743825930c619b60fd, type: 3}
+  - {fileID: 8300000, guid: 6867365ff77d6b343a77d4a5174c5cfc, type: 3}
+  volume: 1
+  pitch: 1
+  pitchVariance: 0
